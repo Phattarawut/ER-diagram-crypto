@@ -1,3 +1,3 @@
 # ER-diagram-crypto
 
-[click here to download ER-diagram-crypto](ER_diagram-crypto.pdf)
+[📥 ดาวน์โหลด Design PDF](https://github.com/yourname/trading-app/raw/main/docs/design.pdf)
