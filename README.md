@@ -1,3 +1,3 @@
 # ER-diagram-crypto
 
-[📥 ดาวน์โหลด Design PDF](https://github.com/yourname/trading-app/raw/main/docs/design.pdf)
+[📥 ดาวน์โหลด ER Diagram PDF](https://github.com/Phattarawut/ER-diagram-crypto/raw/main/ER_diagram-crypto.pdf)
